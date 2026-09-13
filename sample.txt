@@ -1,0 +1,2 @@
+This file is made for the implementation of the
+deletion part of the fs module implementation.
